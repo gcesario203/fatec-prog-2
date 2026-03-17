@@ -9,7 +9,7 @@ int main()
 {
     float x, a, c, resultado;
 
-    printf("DESIGNAÇÃO DO EXERCICIO: CALCULAR X**2 + 4 * A + C - 36\n");
+    printf("DESIGNAÇÃO DO EXERCICIO: CALCULAR X**2 + 4 * A * C - 36\n");
 
     printf("Digite o valor do x da equação: \n");
 
