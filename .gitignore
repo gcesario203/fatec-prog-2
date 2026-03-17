@@ -45,3 +45,5 @@
 .depend
 bin/
 obj/
+output
+.vscode
